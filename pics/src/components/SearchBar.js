@@ -22,6 +22,6 @@ onFormSubmit = event =>{
         </div>
         );
     };
-};
+}
 
 export default SearchBar;
